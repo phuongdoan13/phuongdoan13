@@ -52,8 +52,8 @@ I am a Full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <p align="center">
     <a href="https://github.com/phuongdoan13/">
-  <img height="60%" width="100%" src ="https://github-readme-stats.vercel.app/api?username=phuongdoan13&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&bg_color=FFFFFF00">
-  <img height="60%" width="100%" src ="https://github-readme-streak-stats.herokuapp.com?user=phuongdoan13&theme=gruvbox&hide_border=true&background=FFFFFF00">
+  <img height="60%" width="100%" src ="https://github-readme-stats.vercel.app/api?username=phuongdoan13&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&bg_color=ffffff00">
+  <img height="60%" width="100%" src ="https://github-readme-streak-stats.herokuapp.com?user=phuongdoan13&theme=gruvbox&hide_border=true&background=ffffff00">
   <img height="60%" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuongdoan13&langs_count=12&layout=compact&theme=gruvbox&hide_border=true&bg_color=ffffff00" />
     </a>
 </p>
