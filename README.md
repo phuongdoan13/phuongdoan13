@@ -50,7 +50,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-
 <p align="center">
     <a href="https://github.com/phuongdoan13/">
   <img height="60%" width="100%" src ="https://github-readme-stats.vercel.app/api?username=phuongdoan13&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&bg_color=00000000">
