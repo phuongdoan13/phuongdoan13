@@ -12,7 +12,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a Full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🔭 I’m a Full-stack Software Engineer, passionate in data structures and algorithms
 - 🌱 I love finance and AI, and enjoy the projects that is the amalgamation of these two (the best of both worlds!)
