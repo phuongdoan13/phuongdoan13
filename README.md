@@ -74,9 +74,11 @@ I am a Full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - Proficient in data Analysis using R
 
 **MySQL & PostgreSQL & InfluxDB**
+
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,&perline=5&theme=light)](https://skillicons.dev)
 
 **Learning:**
+
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,&perline=5&theme=light)](https://skillicons.dev)
 
 </p>
@@ -85,7 +87,9 @@ I am a Full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <p>
 
-**AWS & Google cloud** [![My Skills](https://skillicons.dev/icons?i=googlecloud,aws&perline=5&theme=light)](https://skillicons.dev)
+**AWS & Google cloud** 
+
+[![My Skills](https://skillicons.dev/icons?i=googlecloud,aws&perline=5&theme=light)](https://skillicons.dev)
 
 </p>
 
