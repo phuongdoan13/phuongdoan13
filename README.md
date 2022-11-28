@@ -8,7 +8,7 @@
 
 <br/>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+<p align="center"><img src="https://media.giphy.com/media/ToMjGpNuOksUiclTp4c/giphy.gif" width="600" height="300"  /></p>
 
 ### :man_technologist: &nbsp;About Me :
 
@@ -47,8 +47,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="Gcloud" **alt="Gcloud" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" **alt="AWS" width="40" height="40"/>&nbsp;
 </p>
----
 
+---
 
 
 <p align="center">
