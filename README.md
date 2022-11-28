@@ -1,61 +1,94 @@
 # Welcome to my github page
 
-### Hi there, I'm Harry Doan 👋
+<img src="https://komarev.com/ghpvc/?username=phuongdoan13" alt="https://github.com/phuongdoan13" /> [![Linkedin Badge](https://img.shields.io/badge/-harrydoan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harry-doan-legopher/)
 
-<a href="https://www.linkedin.com/in/harry-doan-legopher/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<img height="60%" width="50%" src ="https://github-readme-stats.vercel.app/api?username=phuongdoan13&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&bg_color=ffffff00"><img height="60%" width="50%" src ="https://github-readme-streak-stats.herokuapp.com?user=phuongdoan13&theme=tokyonight&hide_border=false&background=ffffff00">
 
-<br/>
-
-<p align="center"><img src="https://media.giphy.com/media/ToMjGpNuOksUiclTp4c/giphy.gif" width="600" height="300"  /></p>
-
-### :man_technologist: &nbsp;About Me :
+## About Me :
 
 I am a Full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🔭 I’m a Full-stack Software Engineer, passionate in data structures and algorithms
-- 🌱 I love finance and AI, and enjoy the projects that is the amalgamation of these two (the best of both worlds!)
+- 🔭 Passionate in data structures and algorithms
 - ⚡ In my free time I love building open-source projects and reading books about Science (ever heard of Sapiens?).
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-harrydoan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harry-doan-legopher/)
 
 ---
 
-### 🛠 &nbsp;Languages, libraries, and frameworks:
+## 🏆 Competitions and Side-projects
+
+**[Heliopolis NFT Marketplace](https://github.com/minhhung123/heliopolis)**
+
+- Moralis x Google 2022 ‘Defining DeFi’ Hackathon
+- Technology: **TypeScript**, **NextJS**, **Google Cloud**, Solidity, web3.js, Moralis, Axelar
+
+**[Not-doodle-jump](https://github.com/minhhung123/not-doodle-jump)**
+
+- USYD GDSC Game hackathon 2022
+- Technology: **Python, PyGame**
+
+**[Fundamental DSA](https://github.com/phuongdoan13/Fundamental_DSA)**
+
+- Implement Data Structures and Algorithms from scratch
+
+**[Daily DSA training on Leetcode](https://leetcode.com/violetevergarden1302/)**
+
+- Daily training on data structures and algorithms (500+ problems)
+- Technology: **Java**
+
+**[datasciencemasters/go](https://github.com/datasciencemasters/go)**
+
+- Contribute **R** reference to this open-source project
+
+---
+
+## 🛠 Skills
+
+### 👨‍💻 &nbsp;Languages
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="c++" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="NextJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-workmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-</p>
 
+**Java** [![My Skills](https://skillicons.dev/icons?i=java&perline=1&theme=light)](https://skillicons.dev)
+
+- Proficient in Data Structures and Algorithms
+- Daily DSA training on LeetCode
+
+**Python** [![My Skills](https://skillicons.dev/icons?i=python&perline=1&theme=light)](https://skillicons.dev)
+
+- Develop web service, including REST API
+- Data analysis
+- AI development
+
+**JavaScript/TypeScript** [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,next&perline=5&theme=light)](https://skillicons.dev)
+
+- Proficient in web development using **ReactJS** and **NextJS**
+
+**Golang** [![My Skills](https://skillicons.dev/icons?i=go&perline=5&theme=light)](https://skillicons.dev)
+
+- Develop backend server for Blockchain-based games
+
+**C++** [![My Skills](https://skillicons.dev/icons?i=cpp&perline=5&theme=light)](https://skillicons.dev)
+
+- Utilise for DSA training
+
+**R** [![My Skills](https://skillicons.dev/icons?i=r&perline=5&theme=light)](https://skillicons.dev)
+
+- Proficient in data Analysis using R
+
+**MySQL & PostgreSQL & InfluxDB**
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,&perline=5&theme=light)](https://skillicons.dev)
+
+**Learning:**
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,&perline=5&theme=light)](https://skillicons.dev)
+
+</p>
 
 ### ☁️ &nbsp;Cloud services:
+
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="Gcloud" **alt="Gcloud" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" **alt="AWS" width="40" height="40"/>&nbsp;
+
+**AWS & Google cloud** [![My Skills](https://skillicons.dev/icons?i=googlecloud,aws&perline=5&theme=light)](https://skillicons.dev)
+
 </p>
 
----
+<p align="center"><img src="https://media.giphy.com/media/ToMjGpNuOksUiclTp4c/giphy.gif" width="600" height="300"  /></p>
 
-<p align="center">
-    <a href="https://github.com/phuongdoan13/">
-  <img height="60%" width="100%" src ="https://github-readme-stats.vercel.app/api?username=phuongdoan13&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&bg_color=ffffff00">
-  <img height="60%" width="100%" src ="https://github-readme-streak-stats.herokuapp.com?user=phuongdoan13&theme=gruvbox&hide_border=true&background=ffffff00">
-  <img height="60%" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuongdoan13&langs_count=12&layout=compact&theme=gruvbox&hide_border=true&bg_color=ffffff00" />
-    </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=phuongdoan13" alt="https://github.com/phuongdoan13" />
+  <!-- <img height="60%" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuongdoan13&langs_count=12&layout=compact&theme=tokyonight&hide_border=true&bg_color=ffffff00" /> -->
