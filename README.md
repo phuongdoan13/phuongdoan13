@@ -43,9 +43,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 ### ☁️ &nbsp;Cloud services:
+<p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="Gcloud" **alt="Gcloud" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" **alt="AWS" width="40" height="40"/>&nbsp;
-
+</p>
 ---
 
 
@@ -55,7 +56,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img height="60%" width="100%" src ="https://github-readme-stats.vercel.app/api?username=phuongdoan13&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&bg_color=00000000">
   <img height="60%" width="100%" src ="https://github-readme-streak-stats.herokuapp.com?user=phuongdoan13&theme=gruvbox&hide_border=true&background=FFFFFF00">
   <img height="60%" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuongdoan13&langs_count=12&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000" />
-  <img img height="100%" width="100%" src ="https://github.com/phuongdoan13/phuongdoan13/blob/output/github-contribution-grid-snake.svg">
     </a>
 </p>
 
