@@ -23,16 +23,16 @@ I am a Full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - Technology: **TypeScript**, **NextJS**, **Google Cloud**, Solidity, web3.js, Moralis, Axelar
 
 **[Not-doodle-jump](https://github.com/minhhung123/not-doodle-jump)**
-
+*October 2022*
 - USYD GDSC Game hackathon 2022
 - Technology: **Python, PyGame**
 
 **[Fundamental DSA](https://github.com/phuongdoan13/Fundamental_DSA)**
-
+*2021 - present*
 - Implement Data Structures and Algorithms from scratch
 
 **[Daily DSA training on Leetcode](https://leetcode.com/violetevergarden1302/)**
-
+*2021 - present*
 - Daily training on data structures and algorithms (500+ problems)
 - Technology: **Java**
 
@@ -41,7 +41,7 @@ I am a Full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - Contribute **R** reference to this open-source project
 
 **UTS Link Prediction competition 2018**
-
+*2018*
 - 🥇 First prize
 - Technology: Python
 
