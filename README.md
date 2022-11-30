@@ -43,7 +43,7 @@ I am a Full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 **UTS Link Prediction competition 2018**
 *2018*
 - 🥇 First prize
-- Technology: Python
+- Technology: Python, Sklearn
 
 ---
 
