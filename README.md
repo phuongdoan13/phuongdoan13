@@ -17,8 +17,8 @@ I am a Full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ## 🏆 Competitions and Side-projects
 
-**[Heliopolis NFT Marketplace](https://github.com/minhhung123/heliopolis)**
-
+**[Heliopolis NFT Marketplace](https://github.com/minhhung123/heliopolis)** 
+*November 2022*
 - Moralis x Google 2022 ‘Defining DeFi’ Hackathon
 - Technology: **TypeScript**, **NextJS**, **Google Cloud**, Solidity, web3.js, Moralis, Axelar
 
