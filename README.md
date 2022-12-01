@@ -34,7 +34,7 @@ I am a Full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 **[Daily DSA training on Leetcode](https://leetcode.com/violetevergarden1302/)**
 *2021 - present*
 - Daily training on data structures and algorithms (500+ problems)
-- Technology: **Java**
+- Technology: **Java, C++**
 
 **[datasciencemasters/go](https://github.com/datasciencemasters/go)**
 
