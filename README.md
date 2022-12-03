@@ -53,7 +53,7 @@ I am a Full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <p>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+### Java [![My Skills](https://skillicons.dev/icons?i=java,&perline=5&theme=light)](https://skillicons.dev)
 
 - Proficient in Data Structures and Algorithms
 - Daily DSA training on LeetCode
