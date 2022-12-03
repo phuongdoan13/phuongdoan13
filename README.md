@@ -53,30 +53,42 @@ I am a Full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <p>
 
-### Java [![My Skills](https://skillicons.dev/icons?i=java,&perline=5&theme=light)](https://skillicons.dev)
+### Java 
+
+[![My Skills](https://skillicons.dev/icons?i=java,&perline=5&theme=light)](https://skillicons.dev)
 
 - Proficient in Data Structures and Algorithms
 - Daily DSA training on LeetCode
 
-#### Python [![My Skills](https://skillicons.dev/icons?i=python&perline=1&theme=light)](https://skillicons.dev)
+#### Python 
+  
+[![My Skills](https://skillicons.dev/icons?i=python&perline=1&theme=light)](https://skillicons.dev)
 
 - Develop web service, including REST API
 - Data analysis
 - AI development
 
-#### JavaScript/TypeScript [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,next&perline=5&theme=light)](https://skillicons.dev)
+#### JavaScript/TypeScript 
+  
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,next&perline=5&theme=light)](https://skillicons.dev)
 
 - Proficient in web development using **ReactJS** and **NextJS**
 
-#### Golang  [![My Skills](https://skillicons.dev/icons?i=go&perline=5&theme=light)](https://skillicons.dev)
+#### Golang  
+  
+[![My Skills](https://skillicons.dev/icons?i=go&perline=5&theme=light)](https://skillicons.dev)
 
 - Develop backend server for Blockchain-based games
 
-#### C++ [![My Skills](https://skillicons.dev/icons?i=cpp&perline=5&theme=light)](https://skillicons.dev)
+#### C++ 
+  
+[![My Skills](https://skillicons.dev/icons?i=cpp&perline=5&theme=light)](https://skillicons.dev)
 
 - Utilise for DSA training
 
-#### R [![My Skills](https://skillicons.dev/icons?i=r&perline=5&theme=light)](https://skillicons.dev)
+#### R 
+
+[![My Skills](https://skillicons.dev/icons?i=r&perline=5&theme=light)](https://skillicons.dev)
 
 - Proficient in data Analysis using R
 
@@ -84,7 +96,7 @@ I am a Full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,&perline=5&theme=light)](https://skillicons.dev)
 
-#### Learning:
+#### C# and .NET (learning):
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,&perline=5&theme=light)](https://skillicons.dev)
 
