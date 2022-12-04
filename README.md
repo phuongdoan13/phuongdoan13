@@ -40,7 +40,7 @@ I am a Full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - Contribute **R** reference to this open-source project
 
-**UTS Link Prediction competition 2018**
+**UTS Link Prediction competition**
 *2018*
 - 🥇 First prize
 - Technology: Python, Sklearn
