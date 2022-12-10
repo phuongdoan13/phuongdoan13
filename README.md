@@ -28,6 +28,7 @@ I am a Full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 **[Fundamental DSA](https://github.com/phuongdoan13/Fundamental_DSA)**
 *2021 - present*
 - Implement Data Structures and Algorithms from scratch
+- Technology: **Java**
 
 **[Daily DSA training on Leetcode](https://leetcode.com/violetevergarden1302/)**
 *2021 - present*
