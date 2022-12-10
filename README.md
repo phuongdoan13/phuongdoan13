@@ -1,4 +1,4 @@
-# Welcome to my github page
+# Welcome to my github
 
 <img src="https://komarev.com/ghpvc/?username=phuongdoan13" alt="https://github.com/phuongdoan13" /> [![Linkedin Badge](https://img.shields.io/badge/-harrydoan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harry-doan-legopher/)
 
