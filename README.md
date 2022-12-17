@@ -105,7 +105,7 @@ I am a Full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 #### AWS & Google cloud
 
-[![My Skills](https://skillicons.dev/icons?i=googlecloud,aws&perline=5&theme=light)](https://skillicons.dev)
+[![AWS and GoogleCloud](https://skillicons.dev/icons?i=googlecloud,aws&perline=5&theme=light)](https://skillicons.dev)
 
 </p>
 
