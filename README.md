@@ -64,6 +64,7 @@ I am a Full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - Develop web service, including REST API
 - Data analysis
 - AI development
+- Game (pygame)
 
 #### JavaScript/TypeScript 
   
@@ -81,7 +82,7 @@ I am a Full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   
 [![My Skills](https://skillicons.dev/icons?i=cpp&perline=5&theme=light)](https://skillicons.dev)
 
-- Utilise for DSA training
+- Utilise for DSA training and competitive programming
 
 #### R 
 
