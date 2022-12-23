@@ -50,7 +50,7 @@ I am a Full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <p>
 
-#### Java 
+#### Java
 
 [![My Skills](https://skillicons.dev/icons?i=java,&perline=5&theme=light)](https://skillicons.dev)
 
@@ -79,7 +79,7 @@ I am a Full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - Develop backend server for Blockchain-based games
 
 #### C++ 
-  
+
 [![My Skills](https://skillicons.dev/icons?i=cpp&perline=5&theme=light)](https://skillicons.dev)
 
 - Utilise for DSA training and competitive programming
