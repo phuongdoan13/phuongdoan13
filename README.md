@@ -12,6 +12,7 @@ I am a Full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🔭 Passionate in data structures and algorithms
 - ⚡ In my free time I love building open-source projects and reading books about Science (ever heard of Sapiens?).
+- Join me on Goodreads
 
 ## 🏆 Competitions and Side-projects
 
