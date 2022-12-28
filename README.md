@@ -37,7 +37,7 @@ I am a Full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - Technology: **Java, C++**
 
 **[datasciencemasters/go](https://github.com/datasciencemasters/go)**
- 
+
 - Contribute **R** reference to this open-source project
 
 **UTS Link Prediction competition**
