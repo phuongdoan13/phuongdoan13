@@ -6,7 +6,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,typescript,javascript,golang,cpp,react,next,mysql,postgresql,googlecloud,aws&theme=light)](https://skillicons.dev)
 
-## About Me :
+## About Me:
 
 I am a Full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
