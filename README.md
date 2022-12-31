@@ -112,5 +112,3 @@ I am a Full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </p>
 
 <p align="center"><img src="https://media.giphy.com/media/ToMjGpNuOksUiclTp4c/giphy.gif" width="600" height="300"  /></p>
-
-  <!-- <img height="60%" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuongdoan13&langs_count=12&layout=compact&theme=tokyonight&hide_border=true&bg_color=ffffff00" /> -->
