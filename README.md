@@ -85,7 +85,7 @@ I am a Full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - Utilise for DSA training and competitive programming
 
-#### R 
+#### R
 
 [![My Skills](https://skillicons.dev/icons?i=r&perline=5&theme=light)](https://skillicons.dev)
 
