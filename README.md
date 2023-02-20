@@ -95,7 +95,7 @@ I am a Full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,&perline=5&theme=light)](https://skillicons.dev)
 
-#### C# and .NET (learning):
+#### C# and .NET:
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,&perline=5&theme=light)](https://skillicons.dev)
 
