@@ -4,7 +4,7 @@
 
 <img height="60%" width="50%" src ="https://github-readme-stats.vercel.app/api?username=phuongdoan13&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&bg_color=ffffff00"><img height="60%" width="50%" src ="https://github-readme-streak-stats.herokuapp.com?user=phuongdoan13&theme=tokyonight&hide_border=false&background=ffffff00">
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,typescript,javascript,golang,cpp,react,next,mysql,postgresql,googlecloud,aws&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,typescript,javascript,golang,cpp,csharp,react,next,mysql,postgresql,googlecloud,aws&theme=light)](https://skillicons.dev)
 
 ## About Me:
 
