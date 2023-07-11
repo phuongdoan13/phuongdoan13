@@ -101,6 +101,10 @@ I am a Full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 </p>
 
+#### Scala
+
+</p>
+
 ### ☁️ &nbsp;Cloud services:
 
 <p>
