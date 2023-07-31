@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=phuongdoan13" alt="https://github.com/phuongdoan13" /> [![Linkedin Badge](https://img.shields.io/badge/-harrydoan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harry-doan-legopher/)
 
-<img height="60%" width="50%" src ="https://github-readme-stats.vercel.app/api?username=phuongdoan13&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&bg_color=ffffff00"><img height="60%" width="50%" src ="https://github-readme-streak-stats.herokuapp.com?user=phuongdoan1&theme=tokyonight&hide_border=false&background=ffffff00">
+<img height="60%" width="50%" src ="https://github-readme-stats.vercel.app/api?username=phuongdoan13&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&bg_color=ffffff00"><img height="60%" width="50%" src ="https://github-readme-streak-stats.herokuapp.com?user=&theme=tokyonight&hide_border=false&background=ffffff00">
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,typescript,javascript,golang,cpp,cs,dotnet,react,next,mysql,postgresql,googlecloud,aws&theme=light)](https://skillicons.dev)
 
