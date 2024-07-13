@@ -16,6 +16,11 @@ I am a Full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ## 🏆 Competitions and Side-projects
 
+**[ZK crowd-funding](https://github.com/hung-ngm/zk-energy-crowdfund)** 
+*May 2024*
+- EthGlobal Sydney
+- Technology: **TypeScript**, **NextJS**, **Google Cloud**, Solidity, web3.js, Moralis, Axelar
+
 **[Heliopolis NFT Marketplace](https://github.com/minhhung123/heliopolis)** 
 *November 2022*
 - Moralis x Google 2022 ‘Defining DeFi’ Hackathon
